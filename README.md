@@ -7,4 +7,4 @@
 - Find burst for each unique word, plot the timeline of top 100 bursting topics and visualize the normalized proportions of bursting topics over time
 
 
-A lot of thank you to my partner Sonia Nana
+A lot of thank you to my partner Sonia Nana https://github.com/sonia194
